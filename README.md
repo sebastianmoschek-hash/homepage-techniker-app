@@ -8,7 +8,7 @@
 
 > 👉 **Direkt-Download:** [Homepage-Techniker.apk herunterladen](https://github.com/sebastianmoschek-hash/homepage-techniker-app/releases/latest/download/Homepage-Techniker.apk)
 
-**Version:** v0.11.0 (KI-Fix) · **Größe:** ~280 MB
+**Version:** v0.11.0 (KI-Fix, schlankere Handy-Version) · **Größe:** ~166 MB
 
 ---
 
@@ -16,7 +16,7 @@
 
 1. **Öffne diese Seite auf deinem Handy** (z. B. über den QR-Code / Link aus der Nachricht).
 2. Tippe auf **„Homepage-Techniker.apk herunterladen“**.
-3. Der Download startet — das dauert je nach Internetgeschwindigkeit 1–5 Minuten.
+3. Der Download startet — das dauert je nach Internetgeschwindigkeit ca. 30 Sekunden bis 2 Minuten (bei gutem WLAN auch schneller).
 4. Öffne die **heruntergeladene Datei** (Benachrichtigung „Download abgeschlossen“).
 5. Falls gefragt wird: **„Unbekannte Quellen erlauben“** → erlauben (nur für diese Installation).
 6. Tippe auf **Installieren** (bei vorhandener Version: **Aktualisieren**).
